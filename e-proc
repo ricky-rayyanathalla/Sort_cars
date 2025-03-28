@@ -1,0 +1,2060 @@
+C:\Python313\python.exe F:\Ricks\GitHub\ricky-rinaldo\Python-Project\testScarping_eProc.py 
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="/app-assets/images/favicon.ico" rel="icon"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <meta content="#000000" name="theme-color"/>
+  <meta content="Pupuk Indonesia" name="E Procurement"/>
+  <link href="/logo192.png" rel="apple-touch-icon"/>
+  <link href="/manifest.json" rel="manifest"/>
+  <title>
+   E Proc - Pupuk Indonesia
+  </title>
+  <link href="/static/css/18.ddf339ce.chunk.css" rel="stylesheet"/>
+  <link href="/static/css/main.8f961615.chunk.css" rel="stylesheet"/>
+  <script charset="utf-8" src="/static/js/0.092801da.chunk.js">
+  </script>
+  <link href="/static/css/7.d694ff75.chunk.css" rel="stylesheet" type="text/css"/>
+  <script charset="utf-8" src="/static/js/7.079f4be0.chunk.js">
+  </script>
+  <script charset="utf-8" src="/static/js/14.3692b2b9.chunk.js">
+  </script>
+  <script charset="utf-8" src="/static/js/52.0515174b.chunk.js">
+  </script>
+  <script charset="utf-8" src="/static/js/24.d6914d3b.chunk.js">
+  </script>
+  <style data-styled="active" data-styled-version="5.3.0">
+  </style>
+ </head>
+ <body class="pace-running pace-done pace-done">
+  <div class="pace pace-inactive pace-inactive">
+   <div class="pace-progress" data-progress="99" data-progress-text="100%" style="transform: translate3d(100%, 0px, 0px);">
+    <div class="pace-progress-inner">
+    </div>
+   </div>
+   <div class="pace-activity">
+   </div>
+  </div>
+  <noscript>
+   E Proc - Pupuk Indonesia
+  </noscript>
+  <div id="root">
+   <div>
+    <div>
+     <div class="profile">
+      <div class="profile-header">
+       <div class="profile-header-cover" style='background-image: url("/app-assets/images/profile-covers-new.jpg");'>
+       </div>
+       <div class="profile-header-content">
+        <div class="profile-header-info">
+         <h4 class="m-t-10 m-b-5">
+          E Procurement
+         </h4>
+         <p class="m-b-10">
+          Pupuk Indonesia
+         </p>
+         <p class="m-b-10" id="dateTime">
+          Jum'at, 28 Maret 2025 07 : 13 : 46
+         </p>
+         <div>
+         </div>
+         <button class="btn btn-xs btn-yellow" type="button">
+          Login
+         </button>
+         <div class="pull-right">
+          <button class="btn btn-xs btn-yellow">
+           ID
+           <img alt="logo-id" src="/app-assets/images/id.png" style="min-height: 2px; width: 15px; height: 15px; border-radius: 10px; background-repeat: no-repeat; background-size: 15px; background-position: center center;"/>
+          </button>
+          <button class="btn btn-xs btn-white">
+           EN
+           <img alt="logo-en" src="/app-assets/images/en.png" style="min-height: 2px; width: 15px; height: 15px; border-radius: 10px; background-repeat: no-repeat; background-size: 15px; background-position: center center;"/>
+          </button>
+         </div>
+        </div>
+       </div>
+       <ul class="profile-header-tab nav nav-tabs">
+        <li class="nav-item">
+         <button class="nav-link active">
+          Informasi
+         </button>
+        </li>
+        <li class="nav-item">
+         <button class="nav-link">
+          Pendaftaran
+         </button>
+        </li>
+        <li class="nav-item">
+         <button class="nav-link">
+          Download
+         </button>
+        </li>
+        <li class="nav-item">
+         <button class="nav-link">
+          Kontak
+         </button>
+        </li>
+        <li class="nav-item">
+         <button class="nav-link">
+          Kebijakan Privasi
+         </button>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="profile-content">
+      <div class="tab-content p-0">
+       <div class="tab-pane fade show active">
+        <div class="row">
+         <div class="col-md-8">
+          <ol class="breadcrumb float-xl-right">
+          </ol>
+          <h4 class="m-t-0 m-b-20">
+           Lelang
+          </h4>
+          <div class="panel panel-success">
+           <div class="panel-heading">
+            <h4 class="panel-title">
+             Tender Umum
+            </h4>
+            <div class="panel-heading-btn">
+             <button class="btn btn-xs btn-icon btn-circle btn-default" type="button">
+              <i class="fa fa-expand">
+              </i>
+             </button>
+             <button class="btn btn-xs btn-icon btn-circle btn-warning" type="button">
+              <i class="fa fa-minus">
+              </i>
+             </button>
+            </div>
+           </div>
+           <div class="panel-body undefined">
+            <div>
+             <div>
+              <div class="ReactTable -highlight">
+               <div class="rt-table" role="grid">
+                <div class="rt-thead -header" style="min-width: 800px;">
+                 <div class="rt-tr" role="row">
+                  <div class="rt-th rt-resizable-header -cursor-pointer" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    No. Proposal Tender
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                  <div class="rt-th rt-resizable-header -cursor-pointer" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    Title
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                  <div class="rt-th rt-resizable-header -cursor-pointer" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    Company
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                  <div class="rt-th rt-resizable-header -cursor-pointer" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    Metode Tender
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                  <div class="rt-th rt-resizable-header -cursor-pointer" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    Metode Pemasukan Penawaran
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                  <div class="rt-th rt-resizable-header -cursor-pointer" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    Status
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                  <div class="rt-th rt-resizable-header -cursor-pointer" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    Tanggal Batas Registrasi
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                  <div class="rt-th rt-resizable-header" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div class="rt-resizable-header-content">
+                    Aksi
+                   </div>
+                   <div class="rt-resizer">
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="rt-thead -filters" style="min-width: 800px;">
+                 <div class="rt-tr" role="row">
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <input class="form-control" name="proposal_tender_no" value=""/>
+                  </div>
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <input class="form-control" name="title" value=""/>
+                  </div>
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <input class="form-control" name="company_name" value=""/>
+                  </div>
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <input class="form-control" name="metode_tender" value=""/>
+                  </div>
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <input class="form-control" name="metode_pemasukan_penawaran" value=""/>
+                  </div>
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div>
+                    <center>
+                     <button class="btn btn-secondary" type="button">
+                      Cari Status
+                     </button>
+                    </center>
+                   </div>
+                  </div>
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                   <div>
+                    <select class="form-control">
+                     <option value="">
+                      Semua
+                     </option>
+                     <option value="range">
+                      Rentang Waktu
+                     </option>
+                     <option value="certain">
+                      Waktu Tertentu
+                     </option>
+                    </select>
+                    <div>
+                    </div>
+                    <div>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="rt-th" role="columnheader" style="flex: 100 0 auto; width: 100px;" tabindex="-1">
+                  </div>
+                 </div>
+                </div>
+                <div class="rt-tbody" style="min-width: 800px;">
+                 <div class="rt-tr-group" role="rowgroup">
+                  <div class="rt-tr -padRow -odd" role="row">
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                   <div class="rt-td" role="gridcell" style="flex: 100 0 auto; width: 100px;">
+                    <span>
+                    </span>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="pagination-bottom">
+                <div class="col-lg-12 m-t-10">
+                 <div class="row">
+                  <div class="col-lg-6 pull-left">
+                   <label class="m-t-5">
+                    Menampilkan
+                   </label>
+                   <select class="m-l-5 m-r-5">
+                    <option value="10">
+                     10
+                    </option>
+                    <option value="20">
+                     20
+                    </option>
+                    <option value="25">
+                     25
+                    </option>
+                    <option value="50">
+                     50
+                    </option>
+                    <option value="100">
+                     100
+                    </option>
+                   </select>
+                   <label class="m-t-5">
+                    entri pada halaman 1 dari 0 total data
+                   </label>
+                  </div>
+                  <div class="col-lg-6">
+                   <button class="btn btn-xs btn-danger m-b-10 m-r-20 pull-right" type="button">
+                    Reset Filter
+                   </button>
+                  </div>
+                 </div>
+                 <div class="col-lg-12 pull-right">
+                  <ul class="pagination pull-right">
+                   <li class="page-item">
+                    <button class="page-link" disabled="" type="button">
+                     «  Prev
+                    </button>
+                   </li>
+                   <li class="page-item">
+                    <button class="page-link" type="button">
+                     Next »
+                    </button>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+               <div class="rt-noData">
+                No rows found
+               </div>
+               <div class="-loading">
+                <div class="-loading-inner">
+                 Loading...
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="col-md-4">
+          <h4 class="m-t-0 m-b-20">
+           Pengumuman
+          </h4>
+          <div class="panel panel-success">
+           <div class="panel-heading">
+            <h4 class="panel-title">
+             List Pengumuman
+            </h4>
+            <div class="panel-heading-btn">
+             <button class="btn btn-xs btn-icon btn-circle btn-default" type="button">
+              <i class="fa fa-expand">
+              </i>
+             </button>
+             <button class="btn btn-xs btn-icon btn-circle btn-warning" type="button">
+              <i class="fa fa-minus">
+              </i>
+             </button>
+            </div>
+           </div>
+           <div class="panel-body undefined">
+            <div>
+             <div class="row">
+              <div class="col-sm-12">
+               <div>
+                <p style="cursor: pointer; font-size: 14px; margin-bottom: 5px;">
+                 <b>
+                  1#  3301 PENGUMUMAN TENDER (DENGAN PASCAKUALIFIKASI) JPT – EMKL  DI WILAYAH MAKASSAR DAN LAMPUNG (KEBUTUHAN PSP &amp; PKG)
+                 </b>
+                </p>
+                <p style="font-size: 10px;">
+                 25-03-2025 09:53:35
+                </p>
+                <hr/>
+               </div>
+               <div>
+                <p style="cursor: pointer; font-size: 14px; margin-bottom: 5px;">
+                 <b>
+                  Aspek ESG Terhadap Pemasok
+                 </b>
+                </p>
+                <p style="font-size: 10px;">
+                 17-10-2024 17:06:44
+                </p>
+                <hr/>
+               </div>
+               <div>
+                <p style="cursor: pointer; font-size: 14px; margin-bottom: 5px;">
+                 <b>
+                  PENGUMUMAN PELELANGAN TERBATAS SPPH PT/D000/202408/00251
+                 </b>
+                </p>
+                <p style="font-size: 10px;">
+                 28-08-2024 09:39:38
+                </p>
+                <hr/>
+               </div>
+               <div>
+                <p style="cursor: pointer; font-size: 14px; margin-bottom: 5px;">
+                 <b>
+                  Pengumuman Tender Terbatas dengan Pascakualifikasi "Penggantian Governor Control Syngas Compressor 103-JT Ammonia Pabrik 2"
+                 </b>
+                </p>
+                <p style="font-size: 10px;">
+                 02-12-2024 07:17:59
+                </p>
+                <hr/>
+               </div>
+               <div>
+                <p style="cursor: pointer; font-size: 14px; margin-bottom: 5px;">
+                 <b>
+                  Pengumuman Tender Terbatas Pascakualifikasi. - Jasa Kebersihan Boiler Batubara Pabrik 6
+                 </b>
+                </p>
+                <p style="font-size: 10px;">
+                 28-10-2024 07:55:07
+                </p>
+                <hr/>
+               </div>
+               <div>
+                <p style="cursor: pointer; font-size: 14px; margin-bottom: 5px;">
+                 <b>
+                  Prosedur Registrasi
+                 </b>
+                </p>
+                <p style="font-size: 10px;">
+                 17-12-2021 04:58:07
+                </p>
+                <hr/>
+               </div>
+               <div>
+                <p style="cursor: pointer; font-size: 14px; margin-bottom: 5px;">
+                 <b>
+                  Syarat dan Ketentuan
+                 </b>
+                </p>
+                <p style="font-size: 10px;">
+                 17-12-2021 04:54:19
+                </p>
+                <hr/>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tab-pane fade">
+       </div>
+       <div class="tab-pane fade">
+        <h4 class="m-t-0 m-b-20">
+         Download
+        </h4>
+       </div>
+       <div class="tab-pane fade">
+        <h4 class="m-t-0 m-b-20">
+         Kontak
+        </h4>
+        <div class="row">
+         <div class="col-md-12">
+          <div class="panel panel-success">
+           <div class="panel-heading">
+            <h4 class="panel-title">
+             Info Kontak Pupuk Indonesia
+            </h4>
+            <div class="panel-heading-btn">
+             <button class="btn btn-xs btn-icon btn-circle btn-default" type="button">
+              <i class="fa fa-expand">
+              </i>
+             </button>
+             <button class="btn btn-xs btn-icon btn-circle btn-warning" type="button">
+              <i class="fa fa-minus">
+              </i>
+             </button>
+            </div>
+           </div>
+           <div class="panel-body undefined">
+            <center>
+             <div class="row">
+              <div class="col-sm-6">
+               <table width="100%">
+                <thead>
+                 <tr>
+                  <td class="text-center" colspan="3">
+                   <h4>
+                    PT. Pupuk Indonesia
+                   </h4>
+                  </td>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td style="vertical-align: top;" width="25%">
+                   <b>
+                    Alamat
+                   </b>
+                  </td>
+                  <td style="vertical-align: top;">
+                   :
+                  </td>
+                  <td>
+                   Kantor Pengadaan PT Pupuk Indonesia (Persero), Jl. Menteng Raya No 27, Kebon Sirih, Jakarta Pusat
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Email
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   vm.eproc@pupuk-indonesia.com
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Nomor WA
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   <a href="https://wa.me/6285121049225" target="_blank">
+                    +6285121049225
+                   </a>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <br/>
+               <br/>
+               <table width="100%">
+                <thead>
+                 <tr>
+                  <td class="text-center" colspan="3">
+                   <h4>
+                    PT. Petrokimia Gresik
+                   </h4>
+                  </td>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td width="25%">
+                   <b>
+                    Alamat
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   PT. Petrokimia Gresik Jl. Ahmad Yani Gresik - 61119 INDONESIA
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Telp
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   031-3982100, 3982200
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Fax
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   031-3981722,3982272
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Vendor Management
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   ext. 2699
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Nomor WA
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   0811-3276-002
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Email
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   epro@petrokimia-gresik.com
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <br/>
+               <br/>
+               <table width="100%">
+                <thead>
+                 <tr>
+                  <td class="text-center" colspan="3">
+                   <h4>
+                    PT. Pupuk Kalimantan Timur
+                   </h4>
+                  </td>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td width="25%">
+                   <b>
+                    Alamat
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   Jln. Ir. James Simanjuntak No.1 Bontang Utara – Kaltim
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Telp
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   0548-41202
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Fax
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   0548-41595
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Pengadaan jasa
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   ext. 5214 (Abdul Kadir Kaola)
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Pengadaan barang
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   ext. 5248 (Jaka Satria)
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Jasa distribusi
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   ext. 5833 (Suryo Wildan)
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Vendor Management
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   ext. 5218 (Rizki Ardita)
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Email
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   vendormgm@pupukkaltim.com
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <div class="col-sm-6">
+               <table width="100%">
+                <thead>
+                 <tr>
+                  <td class="text-center" colspan="3">
+                   <h4>
+                    PT Pupuk Sriwijaya Palembang
+                   </h4>
+                  </td>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td width="25%">
+                   <b>
+                    Alamat
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   Jl Mayor Zen, Palembang- Indonesia 30118
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Telp
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   (0711) - 712222 ext 3439
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Email
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   vendor_management@pusri.co.id
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <br/>
+               <br/>
+               <table width="100%">
+                <thead>
+                 <tr>
+                  <td class="text-center" colspan="3">
+                   <h4>
+                    PT. Pupuk Kujang
+                   </h4>
+                  </td>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td width="25%">
+                   <b>
+                    Alamat
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   Jl. Jend. A. Yani No. 39 Cikampek 41373 Kabupaten Karawang – Jawa Barat
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Telp
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   (0264) 316141, 317007
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Fax
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   (0264) 314235, 314335
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Email
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   procurement@pupuk-kujang.co.id
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <br/>
+               <br/>
+               <table width="100%">
+                <thead>
+                 <tr>
+                  <td class="text-center" colspan="3">
+                   <h4>
+                    PT. Pupuk Iskandar Muda
+                   </h4>
+                  </td>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td width="25%">
+                   <b>
+                    Alamat
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   Jl. Medan - Banda Aceh, Krueng Geukueh, Aceh Utara
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Telp
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   (0645) 56222
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Pengadaan Barang
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   +628116709885
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Pengadaan Jasa
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   +628116725747
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <b>
+                    Email
+                   </b>
+                  </td>
+                  <td>
+                   :
+                  </td>
+                  <td>
+                   eproc@pim.co.id
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+             </div>
+            </center>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="tab-pane fade">
+        <div class="row">
+         <div class="col-md-12">
+          <div class="panel panel-success">
+           <div class="panel-heading">
+            <h4 class="panel-title">
+             Kebijakan Privasi
+            </h4>
+            <div class="panel-heading-btn">
+             <button class="btn btn-xs btn-icon btn-circle btn-default" type="button">
+              <i class="fa fa-expand">
+              </i>
+             </button>
+             <button class="btn btn-xs btn-icon btn-circle btn-warning" type="button">
+              <i class="fa fa-minus">
+              </i>
+             </button>
+            </div>
+           </div>
+           <div class="panel-body undefined">
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Pendahuluan
+            </h2>
+            <div class="text-dark-50 line-height-lg mb-8">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kebijakan Privasi berikut ini menjelaskan bagaimana kami,
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 EPROCUREMENT
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 PT
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 PUPUK INDONESIA
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 mengumpulkan, menyimpan, menggunakan, mengolah, menguasai, mentransfer, mengungkapkan dan melindungi Informasi Pribadi anda. Kebijakan Privasi ini berlaku bagi seluruh pengguna aplikasi-aplikasi, situs web (
+                </span>
+               </span>
+              </span>
+              <u>
+               <a href="https://eprocurement.pupuk-indonesia.com/">
+                <span>
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   eprocurement
+                  </span>
+                 </span>
+                </span>
+                <span>
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   .
+                  </span>
+                 </span>
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   pupuk-indonesia
+                  </span>
+                 </span>
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   .com
+                  </span>
+                 </span>
+                </span>
+               </a>
+              </u>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 ), layanan, atau produk (“
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Aplikasi
+                 </strong>
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 ”) kami, kecuali diatur pada kebijakan privasi yang terpisah.
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Mohon baca Kebijakan Privasi ini dengan seksama untuk memastikan bahwa anda memahami bagaimana proses pengolahan data kami. Kecuali didefinisikan lain, semua istilah dengan huruf kapital yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama dengan yang tercantum dalam Ketentuan Pengunaan.
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kebijakan Privasi ini mencakup hal-hal sebagai berikut:
+                </span>
+               </span>
+              </span>
+             </p>
+             <ol>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Informasi Pribadi yang kami kumpulkan
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Penggunaan Informasi Pribadi yang kami kumpulkan
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Pemberian Informasi Pribadi yang kami kumpulkan
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Penyimpanan Informasi Pribadi
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Akses dan koreksi Informasi Pribadi
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Tempat kami menyimpan Informasi Pribadi anda
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Keamanan Informasi Pribadi anda
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Perubahan atas Kebijakan Privasi ini
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Pengakuan dan persetujuan
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Data anonim
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Platform pihak ketiga
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Cara untuk menghubungi kami
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+             </ol>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Informasi Pribadi Yang Kami Kumpulkan
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kami mengumpulkan informasi yang mengidentifikasikan atau dapat digunakan untuk mengidentifikasi, menghubungi, atau menemukan orang atau perangkat yang terkait dengan informasi tersebut ("
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Informasi Pribadi
+                 </strong>
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 "). Informasi Pribadi termasuk, tetapi tidak terbatas pada, nama, alamat, tanggal lahir, pekerjaan, nomor telepon, alamat e-mail , jenis kelamin, identifikasi (termasuk KTP, SIM, atau Paspor) atau tanda pengenal lainnya yang dikeluarkan oleh pemerintah, foto, kewarganegaraan, nomor telepon pengguna dan non-pengguna Aplikasi kami yang terdapat dalam daftar data kesehatan, informasi keuangan terkait, serta informasi biometrik (termasuk namun tidak terbatas pengenalan wajah). Selain itu, untuk informasi lainnya, seperti profil pribadi, dan/atau nomor pengenal unik, yang dikaitkan atau digabungkan dengan Informasi Pribadi, maka informasi tersebut juga dianggap sebagai Informasi Pribadi. Informasi Pribadi yang kami kumpulkan dapat diberikan oleh anda secara langsung atau oleh pihak ketiga (misalnya: ketika anda mendaftar atau menggunakan Aplikasi, ketika anda menghubungi layanan pelanggan kami, atau sebaliknya ketika anda memberikan Informasi Pribadi kepada kami). Kami dapat mengumpulkan informasi dalam berbagai macam bentuk dan tujuan (termasuk tujuan yang diizinkan berdasarkan peraturan perundang-undangan yang berlaku).
+                </span>
+               </span>
+              </span>
+              <br/>
+              <br/>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Informasi yang kami kumpulkan dari anda atau perangkat seluler anda secara langsung
+                 </strong>
+                </span>
+               </span>
+              </span>
+             </p>
+             <ul>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Ketika anda menggunakan Aplikasi, anda harus memberikan kepada kami Informasi Pribadi tertentu, termasuk nama, alamat fisik, alamat e-mail, dan nomor telepon anda.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Ketika anda menggunakan Aplikasi, anda harus memberikan kami informasi yang relevan yang mungkin diperlukan oleh kami agar Aplikasi dapat berfungsi, contohnya:
+                  </span>
+                 </span>
+                </span>
+               </p>
+               <ol style="list-style-type: lower-alpha;">
+                <li>
+                 <p>
+                  <span style="color: rgb(72, 84, 96);">
+                   <span style="font-family: OpenSans, serif;">
+                    <span style="font-size: medium;">
+                     Jika anda menggunakan Aplikasi sebagai pengguna, anda harus memberikan informasi pada kami sesuai dengan jenis layanan yang anda gunakan seperti alamat, data pribadi, dan data keluarga.
+                    </span>
+                   </span>
+                  </span>
+                 </p>
+                </li>
+               </ol>
+              </li>
+             </ul>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Informasi yang dikumpulkan setiap kali anda menggunakan Aplikasi atau mengunjungi situs web kami
+                 </strong>
+                </span>
+               </span>
+              </span>
+             </p>
+             <ul>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Setiap kali anda menggunakan Aplikasi atau mengunjungi situs web kami, kami dapat mengumpulkan data teknis tertentu sehubungan dengan penggunaan anda seperti, alamat protokol internet.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Ketika anda menggunakan Aplikasi atau mengunjungi situs web kami, informasi tertentu juga dapat dikumpulkan secara otomatis dengan menggunakan
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   <em>
+                    cookies
+                   </em>
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   .
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   <em>
+                    Cookies
+                   </em>
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   adalah berkas data kecil yang tersimpan pada komputer atau perangkat seluler anda. Kami menggunakan
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   <em>
+                    cookies
+                   </em>
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk melacak aktivitas pengguna dengan tujuan untuk meningkatkan antarmuka dan pengalaman pengguna. Sebagian besar perangkat seluler dan peramban internet mendukung penggunaan
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   <em>
+                    cookies
+                   </em>
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   ; namun anda dapat menyesuaikan pengaturan pada perangkat seluler atau peramban internet anda untuk menolak beberapa jenis
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   <em>
+                    cookies
+                   </em>
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   atau
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   <em>
+                    cookies
+                   </em>
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   spesifik tertentu. Perangkat seluler dan/atau peramban anda juga memungkinkan anda untuk menghapus cookies apa pun yang sebelumnya telah tersimpan. Namun demikian, hal itu dapat mempengaruhi fungsi-fungsi yang tersedia pada Aplikasi atau situs web kami.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Setiap kali anda menggunakan Aplikasi melalui perangkat seluler, kami akan melacak dan mengumpulkan informasi lokasi geografis anda dalam waktu sebenarnya. Dalam beberapa kasus, anda akan diminta atau diharuskan untuk mengaktifkan
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   <em>
+                    Global Positioning System
+                   </em>
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   (GPS) pada perangkat seluler anda untuk memungkinkan kami agar dapat memberikan anda pengalaman yang lebih baik dalam menggunakan Aplikasi (misalnya, untuk memberikan informasi tentang seberapa dekat titik presensi dengan anda). Anda dapat menonaktifkan informasi pelacakan lokasi geografis pada perangkat seluler anda untuk sementara waktu. Namun, hal ini dapat mempengaruhi fungsi-fungsi yang tersedia pada Aplikasi.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+             </ul>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Penggunaan Informasi Pribadi Yang Kami Kumpulkan
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kami dapat menggunakan Informasi Pribadi yang dikumpulkan untuk tujuan sebagai berikut maupun untuk tujuan lain yang diizinkan oleh peraturan perundang-undangan yang berlaku ("
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Tujuan"
+                 </strong>
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 ):
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Jika anda adalah pengguna, kami dapat menggunakan Informasi Pribadi anda:
+                </span>
+               </span>
+              </span>
+             </p>
+             <ul>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk mengidentifikasi dan mendaftarkan anda sebagai pengguna dan untuk mengadministrasikan, memverifikasi, menonaktifkan, atau mengelola akun anda;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk memungkinkan penyedia layanan untuk menyediakan layanan yang anda minta;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk mengolah dan memfasilitasi pesanan dan transaksi yang anda lakukan, termasuk sebagaimana berlaku, transaksi yang dilakukan melalui fitur yang tersedia pada Aplikasi;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk memberitahu anda atas transaksi atau aktivitas yang terjadi dalam Aplikasi atau sistem lain yang terhubung dengan Aplikasi kami;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk berkomunikasi dengan anda dan mengirimkan anda informasi sehubungan dengan penggunaan Aplikasi;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk memberitahu anda mengenai segala pembaruan pada Aplikasi atau perubahan pada layanan yang disediakan;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk mengolah dan menanggapi pertanyaan dan saran yang diterima dari anda;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk memelihara, mengembangkan, menguji, meningkatkan, dan mempersonalisasikan Aplikasi untuk memenuhi kebutuhan dan preferensi anda sebagai pengguna;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk memantau dan menganalisis aktivitas, perilaku, dan data demografis pengguna termasuk kebiasaan dan penggunaan berbagai layanan yang tersedia di Aplikasi;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   untuk memproses dan mengelola reward points anda;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+             </ul>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Pemberian Informasi Pribadi Yang Kami Kumpulkan
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kami dapat mengungkapkan memberikan akses atau membagikan Informasi Pribadi anda dengan afiliasi dan pihak lain untuk tujuan sebagai berikut ini serta untuk tujuan lain yang diizinkan oleh peraturan perundang-undangan yang berlaku:
+                </span>
+               </span>
+              </span>
+             </p>
+             <ul>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   jika disyaratkan atau diotorisasikan oleh peraturan perundang-undangan yang berlaku (termasuk namun tidak terbatas pada menanggapi pertanyaan terkait regulasi, penyelidikan atau pedoman, atau mematuhi persyaratan atau ketentuan pengarsipan dan pelaporan berdasarkan undang-undang), untuk tujuan yang ditentukan dalam peraturan perundang-undangan yang berlaku;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   jika diinstruksikan, diminta, disyaratkan atau diperbolehkan oleh pemerintah yang berwenang, untuk tujuan sebagaimana disebutkan dalam kebijakan pemerintah, peraturan atau peraturan perundang-undangan yang berlaku.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   jika terdapat proses hukum dalam bentuk apapun antara anda dengan kami, atau antara anda dengan pihak lain, sehubungan dengan, atau terkait dengan layanan, untuk keperluan proses hukum tersebut;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   sehubungan dengan segala proses verifikasi kami atau pihak ketiga perlukan sebelum pemberi layanan memberikan layanan kepada anda atau kami mendaftarkan anda sebagai pengguna.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   saat layanan kami tersedia di platform pihak ketiga, (i) untuk membantu kami memperoleh Informasi Pribadi anda dan/atau (ii) mendaftarkan anda atau membantu anda menggunakan layanan kami pada platform pihak ketiga tersebut;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   dalam keadaan darurat terkait keselamatan anda (baik anda adalah pengguna atau penyedia layanan) untuk keperluan menangani keadaan darurat tersebut;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   dalam situasi terkait kesehatan anda atau kepentingan umum (baik anda adalah pengguna atau penyedia layanan), kami dapat membagikan Informasi Pribadi anda kepada pemerintah yang berwenang dan/atau institusi lainnya yang dapat ditunjuk oleh pemerintah yang berwenang atau memiliki kerja sama dengan kami, untuk tujuan pelacakan lokasi, mendukung inisiatif, kebijakan atau program pemerintah, kesehatan public dan tujuan lainnya sebagaimana dibutuhkan secara wajar;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   sehubungan dengan proses klaim asuransi, kami akan membagikan Informasi Pribadi anda untuk tujuan pemrosesan klaim asuransi kepada perusahaan asuransi yang bekerja sama atau berkolaborasi dengan kami;
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Ketika Informasi Pribadi tidak perlu dikaitkan dengan anda, kami akan melakukan upaya yang wajar untuk menghapus dikaitkannya Informasi Pribadi tersebut dengan anda sebagai individu sebelum mengungkapkan atau berbagi informasi tersebut.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Kami tidak akan menjual atau menyewakan Informasi Pribadi anda.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   Selain sebagaimana diatur dalam Kebijakan Privasi ini, kami dapat mengungkapkan dan membagikan Informasi Pribadi anda jika kami memberitahu anda dan kami telah memperoleh persetujuan anda untuk pengungkapan atau pembagian tersebut.
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+             </ul>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Penyimpanan Informasi Pribadi
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Informasi Pribadi anda hanya akan disimpan selama diperlukan untuk memenuhi tujuan dari pengumpulannya, atau selama penyimpanan tersebut diperlukan atau diperbolehkan oleh peraturan perundang-undangan yang berlaku. Kami akan berhenti menyimpan Informasi Pribadi, atau menghapus maksud dari dikaitkannya Informasi Pribadi tersebut dengan anda sebagai individu, segera setelah dianggap bahwa tujuan pengumpulan Informasi Pribadi tersebut tidak lagi dibutuhkan dengan menyimpan Informasi Pribadi dan penyimpanan tidak lagi diperlukan untuk tujuan bisnis atau secara hukum.
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Mohon diperhatikan bahwa masih ada kemungkinan bahwa beberapa Informasi Pribadi anda disimpan oleh pihak lain dengan termasuk institusi pemerintah. Dalam hal kami membagikan Informasi Pribadi anda kepada institusi pemerintah yang berwenang dan/atau institusi lainnya yang dapat ditunjuk oleh pemerintah yang berwenang atau memiliki kerja sama dengan kami, anda menyetujui dan mengakui bahwa penyimpanan Informasi Pribadi anda oleh institusi terkait akan mengikuti kebijakan penyimpanan data masing-masing institusi tersebut. Informasi yang disampaikan melalui komunikasi antara pengguna dan penyedia layanan yang dilakukan selain melalui penggunaan Aplikasi (seperti melalui panggilan telepon, SMS, pesan seluler atau cara komunikasi lainnya dan pengumpulan atas Informasi Pribadi anda) juga dapat disimpan dengan beberapa cara. Kami tidak mengizinkan penyimpanan Informasi Pribadi dengan cara demikian dan kami tidak bertanggung jawab kepada anda untuk hal tersebut. Kami tidak akan bertanggung jawab atas penyimpanan Informasi Pribadi anda. Anda setuju untuk mengganti rugi, membela, dan membebaskan kami, pejabat, direktur, karyawan dan afiliasi kami dari dan terhadap setiap dan segala klaim, kerugian, kewajiban, biaya, kerusakan, dan ongkos (termasuk tetapi tidak terbatas pada biaya hukum dan pengeluaran biaya ganti rugi penuh) yang dihasilkan secara langsung atau tidak langsung dari setiap penyimpanan yang tidak sah atas Informasi Pribadi anda.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Akses dan Koreksi Informasi Pribadi
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Tunduk pada peraturan perundang-undangan yang berlaku, anda dapat meminta kepada kami untuk mengakses dan/atau mengoreksi Informasi Pribadi anda yang berada dalam kepemilikan dan penguasaan kami, dengan menghubungi kami di perincian yang disediakan di bawah ini.
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kami berhak menolak permintaan anda untuk mengakses, atau untuk memperbaiki, sebagian atau semua Informasi Pribadi anda yang kami miliki atau kuasai jika diizinkan atau diperlukan berdasarkan perundang-undangan yang berlaku. Hal ini termasuk dalam keadaan di mana Informasi Pribadi tersebut dapat berisi referensi kepada orang lain atau di mana permintaan untuk akses atau permintaan untuk mengoreksi adalah untuk alasan yang kami anggap tidak relevan, tidak serius, atau menyulitkan.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Tempat Kami Menyimpan Informasi Pribadi Anda
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Saat anda menggunakan Aplikasi dan layanan kami di negara lain dimana Aplikasi kami dapat diakses (“
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Negara Tujuan
+                 </strong>
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 ”), kami dapat mentransfer Informasi Pribadi anda dari negara asal (“
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Negara Asal
+                 </strong>
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 ”) ke Negara Tujuan untuk membuat anda dapat mengakses dan memastikan pengalaman yang lancar ketika Anda menggunakan Aplikasi kami di luar negeri. Dalam hal tersebut, kami akan meminta persetujuan anda untuk mentransfer Data Pribadi anda dari Negara Asal ke Negara Tujuan untuk memastikan kepatuhan atas hukum dan peraturan yang berlaku.
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Informasi Pribadi dari anda yang kami kumpulkan dapat disimpan, ditransfer, atau diolah oleh penyedia layanan pihak ketiga. Kami akan menggunakan semua upaya yang wajar untuk memastikan bahwa semua penyedia layanan pihak ketiga tersebut memberikan tingkat perlindungan yang sebanding dengan komitmen kami berdasarkan Kebijakan Privasi ini.
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kami akan mematuhi seluruh peraturan dan hukum yang berlaku dan menggunakan seluruh usaha yang terbaik untuk memastikan seluruh pihak ketiga pemberi layanan memberikan tingkat perlindungan yang setara dengan komitmen kami dalam Kebijakan Privasi ini.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Keamanan Informasi Pribadi Anda
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kerahasiaan Informasi Pribadi anda adalah hal yang terpenting bagi kami. Kami akan memberlakukan upaya terbaik untuk melindungi dan mengamankan data dan Informasi Pribadi anda dari akses, pengumpulan, penggunaan atau pengungkapan oleh orang-orang yang tidak berwenang dan dari pengolahan yang bertentangan dengan hukum, kehilangan yang tidak disengaja, pemusnahan dan kerusakan atau risiko serupa. Namun, pengiriman informasi melalui internet tidak sepenuhnya aman. Walau kami akan berusaha sebaik mungkin untuk melindungi Informasi Pribadi anda, anda mengakui bahwa kami tidak dapat menjamin keutuhan dan keakuratan Informasi Pribadi apa pun yang anda kirimkan melalui Internet, atau menjamin bahwa Informasi Pribadi tersebut tidak akan dicegat, diakses, diungkapkan, diubah atau dihancurkan oleh pihak ketiga yang tidak berwenang, karena faktor-faktor di luar kendali kami. Anda bertanggung jawab untuk menjaga kerahasiaan detail Akun anda, termasuk kata sandi anda dan One Time Password (OTP) dengan siapapun dan harus selalu menjaga dan bertanggung jawab atas keamanan perangkat yang anda gunakan.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Perubahan Atas Kebijakan Privasi Ini
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kami dapat meninjau dan mengubah Kebijakan Privasi ini atas kebijakan kami sendiri dari waktu ke waktu, untuk memastikan bahwa Kebijakan Privasi ini konsisten dengan perkembangan kami di masa depan, dan/atau perubahan persyaratan hukum atau peraturan. Jika kami memutuskan untuk mengubah Kebijakan Privasi ini, kami akan memberitahu anda tentang perubahan tersebut melalui pemberitahuan umum yang dipublikasikan pada Aplikasi dan/atau situs web, atau sebaliknya ke alamat e-mail anda yang tercantum dalam Akun anda. Anda setuju bahwa anda bertanggung jawab untuk meninjau Kebijakan Privasi ini secara teratur untuk informasi terbaru tentang pengolahan data dan praktik perlindungan data kami, dan bahwa dengan anda terus menggunakan Aplikasi atau situs web kami, berkomunikasi dengan kami, atau mengakses dan menggunakan layanan setelah adanya perubahan apapun terhadap Kebijakan Privasi ini akan dianggap sebagai persetujuan anda terhadap Kebijakan Privasi ini dan segala perubahannya.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Pengakuan dan Persetujuan
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Dengan menyetujui Kebijakan Privasi, anda mengakui bahwa anda telah membaca dan memahami Kebijakan Privasi ini dan menyetujui segala ketentuannya. Secara khusus, anda setuju dan memberikan persetujuan kepada kami untuk mengumpulkan, menggunakan, membagikan, mengungkapkan, menyimpan, mentransfer, atau mengolah Informasi Pribadi anda sesuai dengan Kebijakan Privasi ini.
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Dalam keadaan di mana anda memberikan kepada kami Informasi Pribadi yang berkaitan dengan individu lain (seperti Informasi Pribadi yang berkaitan dengan pasangan anda, anggota keluarga, teman, atau pihak lain), anda menyatakan dan menjamin bahwa anda telah memperoleh persetujuan dari individu tersebut untuk, dan dengan ini menyetujui atas nama individu tersebut untuk, pengumpulan, penggunaan, pengungkapan dan pengolahan Informasi Pribadi mereka oleh kami.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Data Anonim
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Kami dapat membuat, menggunakan, melisensikan atau mengungkapkan Informasi Pribadi, yang tersedia, dengan catatan, (i) bahwa semua hal yang dapat mengidentifikasi telah dihapus sehingga data, baik sendiri atau dikombinasi dengan data lain yang tersedia, tidak dapat dihubungkan dengan atau dikaitkan dengan atau tidak dapat mengidentifikasi suatu individu, dan (ii) data serupa telah digabungkan sehingga data asli membentuk bagian dari kumpulan data yang lebih besar.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Platform Pihak Ketiga
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Aplikasi dan situs web yang dapat berisi tautan ke situs web yang dioperasikan oleh pihak ketiga. Kami tidak mengendalikan atau menerima pertanggungjawaban atau tanggung jawab untuk situs web ini dan untuk pengumpulan, penggunaan, pemeliharaan, berbagi, atau pengungkapan data dan informasi oleh pihak ketiga tersebut. Silakan baca syarat dan ketentuan dan kebijakan privasi dari situs web pihak ketiga tersebut untuk mengetahui bagaimana mereka mengumpulkan dan menggunakan Informasi Pribadi anda.
+                </span>
+               </span>
+              </span>
+             </p>
+            </div>
+            <h2 class="sc-bdnxRM jvCTkj text-dark mb-8">
+             Cara Menghubungi Kami
+            </h2>
+            <div class="text-dark-50 line-height-lg">
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Jika anda memiliki pertanyaan mengenai Kebijakan Privasi ini atau anda ingin mendapatkan akses silahkan hubungi
+                </span>
+               </span>
+              </span>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 vm.eproc@pupuk-indonesia.com atau ithelpdesk@pupuk-indonesia.com
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 Untuk pertanyaan atau keluhan lainnya, anda dapat menghubungi kami melalui email atau telefon melalui kontak berikut:
+                </span>
+               </span>
+              </span>
+             </p>
+             <p>
+              <span style="color: rgb(72, 84, 96);">
+               <span style="font-family: OpenSans, serif;">
+                <span style="font-size: medium;">
+                 <strong>
+                  Email
+                 </strong>
+                </span>
+               </span>
+              </span>
+             </p>
+             <ul>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   vm.eproc@pupuk-indonesia.com
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+              <li>
+               <p>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                  </span>
+                 </span>
+                </span>
+                <span style="color: rgb(72, 84, 96);">
+                 <span style="font-family: OpenSans, serif;">
+                  <span style="font-size: medium;">
+                   ithelpdesk@pupuk-indonesia.com (Chaca
+                   <a href="https://wa.me/6285219530300">
+                    wa.me/6285219530300
+                   </a>
+                   )
+                  </span>
+                 </span>
+                </span>
+               </p>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div aria-live="assertive" class="redux-toastr">
+    <div>
+     <div class="top-left">
+     </div>
+     <div class="top-right">
+     </div>
+     <div class="top-center">
+     </div>
+     <div class="bottom-left">
+     </div>
+     <div class="bottom-right">
+     </div>
+     <div class="bottom-center">
+     </div>
+    </div>
+   </div>
+  </div>
+  <script>
+   !function(e){function c(c){for(var d,a,r=c[0],n=c[1],o=c[2],u=0,l=[];u<r.length;u++)a=r[u],Object.prototype.hasOwnProperty.call(t,a)&&t[a]&&l.push(t[a][0]),t[a]=0;for(d in n)Object.prototype.hasOwnProperty.call(n,d)&&(e[d]=n[d]);for(i&&i(c);l.length;)l.shift()();return b.push.apply(b,o||[]),f()}function f(){for(var e,c=0;c<b.length;c++){for(var f=b[c],d=!0,a=1;a<f.length;a++){var n=f[a];0!==t[n]&&(d=!1)}d&&(b.splice(c--,1),e=r(r.s=f[0]))}return e}var d={},a={17:0},t={17:0},b=[];function r(c){if(d[c])return d[c].exports;var f=d[c]={i:c,l:!1,exports:{}};return e[c].call(f.exports,f,f.exports,r),f.l=!0,f.exports}r.e=function(e){var c=[];a[e]?c.push(a[e]):0!==a[e]&&{7:1,9:1,19:1,20:1,69:1,79:1,126:1,177:1}[e]&&c.push(a[e]=new Promise((function(c,f){for(var d="static/css/"+({}[e]||e)+"."+{0:"31d6cfe0",1:"31d6cfe0",2:"31d6cfe0",3:"31d6cfe0",4:"31d6cfe0",5:"31d6cfe0",6:"31d6cfe0",7:"d694ff75",8:"31d6cfe0",9:"cd521971",10:"31d6cfe0",11:"31d6cfe0",12:"31d6cfe0",13:"31d6cfe0",14:"31d6cfe0",15:"31d6cfe0",19:"6780e105",20:"12ba0e70",21:"31d6cfe0",22:"31d6cfe0",23:"31d6cfe0",24:"31d6cfe0",25:"31d6cfe0",26:"31d6cfe0",27:"31d6cfe0",28:"31d6cfe0",29:"31d6cfe0",30:"31d6cfe0",31:"31d6cfe0",32:"31d6cfe0",33:"31d6cfe0",34:"31d6cfe0",35:"31d6cfe0",36:"31d6cfe0",37:"31d6cfe0",38:"31d6cfe0",39:"31d6cfe0",40:"31d6cfe0",41:"31d6cfe0",42:"31d6cfe0",43:"31d6cfe0",44:"31d6cfe0",45:"31d6cfe0",46:"31d6cfe0",47:"31d6cfe0",48:"31d6cfe0",49:"31d6cfe0",50:"31d6cfe0",51:"31d6cfe0",52:"31d6cfe0",53:"31d6cfe0",54:"31d6cfe0",55:"31d6cfe0",56:"31d6cfe0",57:"31d6cfe0",58:"31d6cfe0",59:"31d6cfe0",60:"31d6cfe0",61:"31d6cfe0",62:"31d6cfe0",63:"31d6cfe0",64:"31d6cfe0",65:"31d6cfe0",66:"31d6cfe0",67:"31d6cfe0",68:"31d6cfe0",69:"8c0e3db5",70:"31d6cfe0",71:"31d6cfe0",72:"31d6cfe0",73:"31d6cfe0",74:"31d6cfe0",75:"31d6cfe0",76:"31d6cfe0",77:"31d6cfe0",78:"31d6cfe0",79:"8c0e3db5",80:"31d6cfe0",81:"31d6cfe0",82:"31d6cfe0",83:"31d6cfe0",84:"31d6cfe0",85:"31d6cfe0",86:"31d6cfe0",87:"31d6cfe0",88:"31d6cfe0",89:"31d6cfe0",90:"31d6cfe0",91:"31d6cfe0",92:"31d6cfe0",93:"31d6cfe0",94:"31d6cfe0",95:"31d6cfe0",96:"31d6cfe0",97:"31d6cfe0",98:"31d6cfe0",99:"31d6cfe0",100:"31d6cfe0",101:"31d6cfe0",102:"31d6cfe0",103:"31d6cfe0",104:"31d6cfe0",105:"31d6cfe0",106:"31d6cfe0",107:"31d6cfe0",108:"31d6cfe0",109:"31d6cfe0",110:"31d6cfe0",111:"31d6cfe0",112:"31d6cfe0",113:"31d6cfe0",114:"31d6cfe0",115:"31d6cfe0",116:"31d6cfe0",117:"31d6cfe0",118:"31d6cfe0",119:"31d6cfe0",120:"31d6cfe0",121:"31d6cfe0",122:"31d6cfe0",123:"31d6cfe0",124:"31d6cfe0",125:"31d6cfe0",126:"8c0e3db5",127:"31d6cfe0",128:"31d6cfe0",129:"31d6cfe0",130:"31d6cfe0",131:"31d6cfe0",132:"31d6cfe0",133:"31d6cfe0",134:"31d6cfe0",135:"31d6cfe0",136:"31d6cfe0",137:"31d6cfe0",138:"31d6cfe0",139:"31d6cfe0",140:"31d6cfe0",141:"31d6cfe0",142:"31d6cfe0",143:"31d6cfe0",144:"31d6cfe0",145:"31d6cfe0",146:"31d6cfe0",147:"31d6cfe0",148:"31d6cfe0",149:"31d6cfe0",150:"31d6cfe0",151:"31d6cfe0",152:"31d6cfe0",153:"31d6cfe0",154:"31d6cfe0",155:"31d6cfe0",156:"31d6cfe0",157:"31d6cfe0",158:"31d6cfe0",159:"31d6cfe0",160:"31d6cfe0",161:"31d6cfe0",162:"31d6cfe0",163:"31d6cfe0",164:"31d6cfe0",165:"31d6cfe0",166:"31d6cfe0",167:"31d6cfe0",168:"31d6cfe0",169:"31d6cfe0",170:"31d6cfe0",171:"31d6cfe0",172:"31d6cfe0",173:"31d6cfe0",174:"31d6cfe0",175:"31d6cfe0",176:"31d6cfe0",177:"8c0e3db5",178:"31d6cfe0",179:"31d6cfe0",180:"31d6cfe0",181:"31d6cfe0",182:"31d6cfe0",183:"31d6cfe0",184:"31d6cfe0",185:"31d6cfe0",186:"31d6cfe0",187:"31d6cfe0",188:"31d6cfe0",189:"31d6cfe0",190:"31d6cfe0",191:"31d6cfe0",192:"31d6cfe0",193:"31d6cfe0",194:"31d6cfe0",195:"31d6cfe0",196:"31d6cfe0",197:"31d6cfe0",198:"31d6cfe0",199:"31d6cfe0",200:"31d6cfe0",201:"31d6cfe0",202:"31d6cfe0",203:"31d6cfe0",204:"31d6cfe0",205:"31d6cfe0",206:"31d6cfe0",207:"31d6cfe0",208:"31d6cfe0",209:"31d6cfe0",210:"31d6cfe0",211:"31d6cfe0",212:"31d6cfe0",213:"31d6cfe0",214:"31d6cfe0",215:"31d6cfe0",216:"31d6cfe0",217:"31d6cfe0",218:"31d6cfe0",219:"31d6cfe0",220:"31d6cfe0",221:"31d6cfe0",222:"31d6cfe0",223:"31d6cfe0",224:"31d6cfe0",225:"31d6cfe0",226:"31d6cfe0",227:"31d6cfe0",228:"31d6cfe0",229:"31d6cfe0",230:"31d6cfe0",231:"31d6cfe0",232:"31d6cfe0",233:"31d6cfe0",234:"31d6cfe0",235:"31d6cfe0",236:"31d6cfe0",237:"31d6cfe0",238:"31d6cfe0",239:"31d6cfe0",240:"31d6cfe0",241:"31d6cfe0",242:"31d6cfe0",243:"31d6cfe0",244:"31d6cfe0",245:"31d6cfe0",246:"31d6cfe0",247:"31d6cfe0",248:"31d6cfe0",249:"31d6cfe0",250:"31d6cfe0",251:"31d6cfe0",252:"31d6cfe0",253:"31d6cfe0",254:"31d6cfe0",255:"31d6cfe0",256:"31d6cfe0",257:"31d6cfe0",258:"31d6cfe0",259:"31d6cfe0",260:"31d6cfe0",261:"31d6cfe0",262:"31d6cfe0",263:"31d6cfe0",264:"31d6cfe0",265:"31d6cfe0",266:"31d6cfe0",267:"31d6cfe0",268:"31d6cfe0",269:"31d6cfe0",270:"31d6cfe0",271:"31d6cfe0",272:"31d6cfe0",273:"31d6cfe0",274:"31d6cfe0",275:"31d6cfe0",276:"31d6cfe0",277:"31d6cfe0",278:"31d6cfe0",279:"31d6cfe0",280:"31d6cfe0",281:"31d6cfe0",282:"31d6cfe0",283:"31d6cfe0",284:"31d6cfe0"}[e]+".chunk.css",t=r.p+d,b=document.getElementsByTagName("link"),n=0;n<b.length;n++){var o=(i=b[n]).getAttribute("data-href")||i.getAttribute("href");if("stylesheet"===i.rel&&(o===d||o===t))return c()}var u=document.getElementsByTagName("style");for(n=0;n<u.length;n++){var i;if((o=(i=u[n]).getAttribute("data-href"))===d||o===t)return c()}var l=document.createElement("link");l.rel="stylesheet",l.type="text/css",l.onload=c,l.onerror=function(c){var d=c&&c.target&&c.target.src||t,b=new Error("Loading CSS chunk "+e+" failed.\n("+d+")");b.code="CSS_CHUNK_LOAD_FAILED",b.request=d,delete a[e],l.parentNode.removeChild(l),f(b)},l.href=t,document.getElementsByTagName("head")[0].appendChild(l)})).then((function(){a[e]=0})));var f=t[e];if(0!==f)if(f)c.push(f[2]);else{var d=new Promise((function(c,d){f=t[e]=[c,d]}));c.push(f[2]=d);var b,n=document.createElement("script");n.charset="utf-8",n.timeout=120,r.nc&&n.setAttribute("nonce",r.nc),n.src=function(e){return r.p+"static/js/"+({}[e]||e)+"."+{0:"092801da",1:"d31c2f44",2:"3d7a5859",3:"45800200",4:"4dbfdc6c",5:"9dededef",6:"cbe3ffa8",7:"079f4be0",8:"aa609368",9:"f133a696",10:"117a742d",11:"1789df75",12:"7b54ad15",13:"c3b2271e",14:"3692b2b9",15:"d1797989",19:"073fb7f6",20:"7547ed2f",21:"d82016a3",22:"0ffc7bd3",23:"e07f4877",24:"d6914d3b",25:"600e03a6",26:"8f405da0",27:"119d8501",28:"48a7b32e",29:"ff68222d",30:"58a103c4",31:"7d0a28aa",32:"d1978c8a",33:"41342e25",34:"1c605081",35:"0113543f",36:"f3fe4ba4",37:"8f910e45",38:"592cc773",39:"9d45a60c",40:"73252de7",41:"46993dc1",42:"e20c6694",43:"e2fd4e9e",44:"3f03beb0",45:"2cf0cfec",46:"e08edb65",47:"a7b8c452",48:"740d5324",49:"cb4bef4b",50:"78ccae56",51:"8564df45",52:"0515174b",53:"d051c260",54:"15ebfd91",55:"a3bfd16e",56:"98a11f87",57:"9fcc5b18",58:"41e9ee98",59:"38438caf",60:"03e0858d",61:"a8d6b8a1",62:"8acb5473",63:"a8f240c7",64:"6913a4e3",65:"c0f6e6a1",66:"6b3e11de",67:"245f7a3d",68:"a2cca5d9",69:"e3d7b423",70:"20cc9d68",71:"39bb9003",72:"89b3e6c8",73:"a8226c90",74:"c77827b1",75:"1b546418",76:"52d20918",77:"59f016da",78:"60314fa3",79:"ac88ce14",80:"1bb5a844",81:"312a15c2",82:"ef1411dc",83:"90086a22",84:"f9bc3c15",85:"410bceb9",86:"2c4553e7",87:"ed166402",88:"bb6b66ad",89:"a8e03cb0",90:"fbcf845e",91:"5602a2a7",92:"b9a1e689",93:"b5b379ca",94:"db2bf60c",95:"95f75e68",96:"24db4f53",97:"e2761acc",98:"2030ec6f",99:"85e0fbd5",100:"15db9114",101:"a7c62382",102:"19660bc5",103:"389f17e7",104:"afcbfab2",105:"81eb433f",106:"607a3809",107:"96b02269",108:"58423e35",109:"0fa28a69",110:"280d90a4",111:"f3567d66",112:"af55c06e",113:"67ecf025",114:"d7ef6a8c",115:"9811e130",116:"d3fd7b93",117:"78edec76",118:"16fb3cc5",119:"3b8a57bb",120:"4dd6d5d8",121:"2c240542",122:"18fb35b4",123:"37d1f328",124:"791ab0b0",125:"fe33fc31",126:"9c8aa63a",127:"773d07a6",128:"2d0aa2e7",129:"33625130",130:"30a4d291",131:"1bca7407",132:"b5f3aa74",133:"fd8ca241",134:"201fa14e",135:"1d2d5b3d",136:"533999d3",137:"4f210d75",138:"d71ea668",139:"24f5da3a",140:"0928db01",141:"bf1f4276",142:"8701df32",143:"e999b7fe",144:"3c9ce108",145:"ef0fc7c2",146:"c719e815",147:"f7737d29",148:"2fab8c9d",149:"57bea30d",150:"0633801c",151:"81b74aaa",152:"5f150345",153:"697c353f",154:"be6f1c14",155:"66d0395f",156:"bd62dbf6",157:"e51a71d7",158:"f5176a96",159:"869adf80",160:"cf0c6ea8",161:"058f479d",162:"85a4bda3",163:"e67c80b4",164:"64a1a690",165:"d39a0980",166:"22ad17d0",167:"8f6182c8",168:"f5987d3b",169:"0227bad4",170:"3a1cfbc1",171:"0c390e98",172:"7c5f8f45",173:"e5b01987",174:"b44c11f8",175:"981c7425",176:"0aa54ff5",177:"a40d2948",178:"2c7da5ea",179:"7cbe5745",180:"ebadf980",181:"0f4a1077",182:"ca24a093",183:"0e2ed55f",184:"f7e5de5a",185:"82896ecf",186:"e46ba8c7",187:"aa067809",188:"be6aba3a",189:"69161700",190:"2c6e8e60",191:"d757a751",192:"ef209681",193:"3080e9e3",194:"04a1af40",195:"d6b977b7",196:"79dc202b",197:"cb37bedd",198:"8ead8422",199:"523eb2a0",200:"d1e333e0",201:"8af7fe1a",202:"0c6da0af",203:"c3f21cd6",204:"fd191a05",205:"5995fa3d",206:"64f9a8b8",207:"63ade433",208:"e5e183cf",209:"73424498",210:"504db1b7",211:"971b075b",212:"88368045",213:"ca1971cb",214:"7459893e",215:"844e9344",216:"ad128405",217:"ce95f91b",218:"441345a0",219:"05927acf",220:"dbdc015e",221:"151ff94f",222:"06d1afe1",223:"1b920bb1",224:"f7fe6fde",225:"007a8dfb",226:"60e65a30",227:"421446b9",228:"cf7a255d",229:"664bd9ee",230:"7c8607e9",231:"b072b18e",232:"9470fa32",233:"2377f76f",234:"529944c6",235:"a09433bd",236:"188235d3",237:"aa2a84a5",238:"a7ab23ea",239:"37da5364",240:"8be7ce38",241:"5a52ab70",242:"10e5d838",243:"cdd7c473",244:"2f042db6",245:"3a896d9a",246:"f2a48eab",247:"437f564b",248:"ba152226",249:"fe8088c9",250:"15c3c871",251:"48da22ab",252:"c202821e",253:"909e0170",254:"4bc0c984",255:"0ccdfd44",256:"1373b1da",257:"46115912",258:"f6beb130",259:"a9d9143c",260:"795db340",261:"faf71c75",262:"b94d6b31",263:"ee6d15c0",264:"16d0a9dd",265:"472a9a22",266:"f2e08295",267:"4ca094d8",268:"ceab9d5f",269:"054bd98b",270:"3a69fcdf",271:"e88ac3d5",272:"562f8c93",273:"6c515baa",274:"ad102f52",275:"a01dae7e",276:"3b01cd98",277:"1a61f5a4",278:"003cfcb3",279:"fff32524",280:"41b40bf8",281:"1546478c",282:"161a3a3c",283:"6e0d7010",284:"78f2e429"}[e]+".chunk.js"}(e);var o=new Error;b=function(c){n.onerror=n.onload=null,clearTimeout(u);var f=t[e];if(0!==f){if(f){var d=c&&("load"===c.type?"missing":c.type),a=c&&c.target&&c.target.src;o.message="Loading chunk "+e+" failed.\n("+d+": "+a+")",o.name="ChunkLoadError",o.type=d,o.request=a,f[1](o)}t[e]=void 0}};var u=setTimeout((function(){b({type:"timeout",target:n})}),12e4);n.onerror=n.onload=b,document.head.appendChild(n)}return Promise.all(c)},r.m=e,r.c=d,r.d=function(e,c,f){r.o(e,c)||Object.defineProperty(e,c,{enumerable:!0,get:f})},r.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.t=function(e,c){if(1&c&&(e=r(e)),8&c)return e;if(4&c&&"object"==typeof e&&e&&e.__esModule)return e;var f=Object.create(null);if(r.r(f),Object.defineProperty(f,"default",{enumerable:!0,value:e}),2&c&&"string"!=typeof e)for(var d in e)r.d(f,d,function(c){return e[c]}.bind(null,d));return f},r.n=function(e){var c=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(c,"a",c),c},r.o=function(e,c){return Object.prototype.hasOwnProperty.call(e,c)},r.p="/",r.oe=function(e){throw console.error(e),e};var n=this.webpackJsonpeprocfe=this.webpackJsonpeprocfe||[],o=n.push.bind(n);n.push=c,n=n.slice();for(var u=0;u<n.length;u++)c(n[u]);var i=o;f()}([])
+  </script>
+  <script src="/static/js/18.f560fc60.chunk.js">
+  </script>
+  <script src="/static/js/main.ec1ee5bb.chunk.js">
+  </script>
+ </body>
+</html>
+
